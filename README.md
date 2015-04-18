@@ -4,7 +4,7 @@
 You'll need OpenCV and some Node.js addons installed before using these scripts. 
 
 To install OpenCV follow instructions to the official size: http://opencv.org/. 
-To resolve Node.js dependencies use npm as follow:  
+To resolve Node.js dependencies use npm as follows:  
 
 ```
 npm install ffi
